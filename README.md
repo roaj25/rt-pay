@@ -47,15 +47,19 @@ MQTT is a lightweight, easy to extend, easy to escalate communication protocol w
 
 # Required components
 - ch32v307v development board
+
 ![ch32v307](docs/ch32v307_board.webp)
 
 - RFID-RC522 arduino module
+
 ![rc522_module](docs/rc522_module.webp)
 
 - ESP-01S wifi module
+
 ![esp01s](docs/esp01s.webp)
 
 - I2C lcd interface + 16x2 display
+
 ![i2c_display_module](docs/i2c_display_module.webp)
 
 # Wiring the Componets
