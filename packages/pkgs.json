@@ -1,0 +1,22 @@
+[
+ {
+  "path": "/packages/iot/umqtt", 
+  "ver": "latest", 
+  "name": "UMQTT"
+ }, 
+ {
+  "path": "/packages/iot/at_device", 
+  "ver": "latest", 
+  "name": "AT_DEVICE"
+ }, 
+ {
+  "path": "/packages/peripherals/pcf8574", 
+  "ver": "v1.0.0", 
+  "name": "PCF8574"
+ }, 
+ {
+  "path": "/packages/peripherals/rc522", 
+  "ver": "latest", 
+  "name": "RC522"
+ }
+]
